@@ -1,0 +1,18 @@
+---
+title: "Milestone 2"
+author: "Samuel Lowry"
+date: "9/17/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# [Harvard Blocking Project](https://adiya1.shinyapps.io/blocking-project/)
+Overall this project was quite informative and easy to understand. The graphics are easy to read and address all of the concerns at hand. Nevertheless, there are several things they could have done to improve the project. The first is that they compare their actual data to the data created through random sampling. Unfortunately, their graphics of random sampling in some cases do not display standard deviation well. For example, is the actual number of majority legacy blocking groups outside of the confidence interval? The second improvement they could have made is that this situation makes little sense if you are not a Harvard affiliate. The background information could have been included next to the figures to bring about more clarity. Lastly, nothing pops up when you click on the "How many freshmen are in each house?" section leaving more to be desired. 
+
+# [Asylum Applicants](https://bhhb.shinyapps.io/asylum/)
+This project professionally displays data but leaves more to be desired. It displays the raw data but does not also display any useful calculations made from the data such as the rate of recognition by year. Secondly, some nations' data vary drastically from year to year. It would have been a tedious yet useful addition to add context to at least some of the large deltas in applications or rejections. The project displays where refugees are from and where they go but provides no context leading to merely numbers with no story. 
+
+
